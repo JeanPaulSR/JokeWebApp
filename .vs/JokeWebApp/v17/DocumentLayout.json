@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Practice\\JokeWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|solutionrelative:models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{365CE323-9657-4CFA-A1AD-47508B3C8C33}|JokeWebApp.csproj|d:\\practice\\jokewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 291,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +58,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Practice\\JokeWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Practice\\JokeWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T21:29:29.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Practice\\JokeWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
+              "ToolTip": "D:\\Practice\\JokeWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T21:07:33.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ShowSearchForm.cshtml",
               "DocumentMoniker": "D:\\Practice\\JokeWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T20:46:38.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T20:46:38.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Practice\\JokeWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -71,25 +104,24 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T20:39:33.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T20:39:33.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JokesController.cs",
               "DocumentMoniker": "D:\\Practice\\JokeWebApp\\Controllers\\JokesController.cs",
               "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
               "ToolTip": "D:\\Practice\\JokeWebApp\\Controllers\\JokesController.cs",
               "RelativeToolTip": "Controllers\\JokesController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAABmAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAnwFYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T19:34:51.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Joke.cs",
               "DocumentMoniker": "D:\\Practice\\JokeWebApp\\Models\\Joke.cs",
               "RelativeDocumentMoniker": "Models\\Joke.cs",
@@ -97,8 +129,7 @@
               "RelativeToolTip": "Models\\Joke.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T19:26:06.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T19:26:06.46Z"
             },
             {
               "$type": "Document",
@@ -115,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Practice\\JokeWebApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -123,12 +154,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T19:21:25.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T19:21:25.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "JokeWebApp.csproj",
               "DocumentMoniker": "D:\\Practice\\JokeWebApp\\JokeWebApp.csproj",
               "RelativeDocumentMoniker": "JokeWebApp.csproj",
@@ -136,8 +166,7 @@
               "RelativeToolTip": "JokeWebApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T18:19:04.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:19:04.245Z"
             }
           ]
         },
